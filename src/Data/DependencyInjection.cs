@@ -1,7 +1,7 @@
 ﻿using Microsoft.Extensions.Configuration;
 using Microsoft.Extensions.DependencyInjection;
 
-namespace NI2.Data;
+namespace Data;
 
 public static class DependencyInjection
 {

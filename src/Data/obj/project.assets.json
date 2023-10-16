@@ -712,11 +712,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Fateeh\\source\\repos\\NI2-BackEnd-Remastered\\src\\Persistence\\Data.csproj",
+      "projectUniqueName": "C:\\Users\\Fateeh\\source\\repos\\NI2-BackEnd-Remastered\\src\\Data\\Data.csproj",
       "projectName": "Data",
-      "projectPath": "C:\\Users\\Fateeh\\source\\repos\\NI2-BackEnd-Remastered\\src\\Persistence\\Data.csproj",
+      "projectPath": "C:\\Users\\Fateeh\\source\\repos\\NI2-BackEnd-Remastered\\src\\Data\\Data.csproj",
       "packagesPath": "C:\\Users\\Fateeh\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Fateeh\\source\\repos\\NI2-BackEnd-Remastered\\src\\Persistence\\obj\\",
+      "outputPath": "C:\\Users\\Fateeh\\source\\repos\\NI2-BackEnd-Remastered\\src\\Data\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
